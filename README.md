@@ -6,7 +6,7 @@
 </p>
 
 # Adel Moussa
-<sub>*Engineerg Physics student and a hobby programmer </sub>
+<sub>*Engineering Physics student and a hobby programmer.</sub>
 
 
 **Background in:** Python, Machine Learning, Physics.
