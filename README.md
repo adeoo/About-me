@@ -12,7 +12,7 @@
 **Background in:** Python, Machine Learning, Physics.
 
 
-## Projets:
+## Projects:
 null for now
 
 
