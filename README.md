@@ -12,6 +12,9 @@
 
 
 ## Projects:
+null for now
+
+## PPs
 The Game of Life: https://github.com/adeoo/Game-of-life
 
 ## Links:
