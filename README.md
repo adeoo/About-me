@@ -18,7 +18,7 @@ null for now
 The Game of Life: https://github.com/adeoo/Game-of-life
 
 ## Links:
-<moussaadel97@gmail.com>
+moussaadel97@gmail.com
 ---
 
 
