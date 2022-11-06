@@ -14,11 +14,13 @@
 ## Projects:
 null for now
 
-## PPs
+## FPs (fun projects)
 The Game of Life: https://github.com/adeoo/Game-of-life
+https://github.com/adeoo/email_notifier
 
 ## Links:
 moussaadel97@gmail.com
+http://lattes.cnpq.br/4497705477645159
 ---
 
 
