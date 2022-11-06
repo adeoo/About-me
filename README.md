@@ -21,7 +21,6 @@ Email notifier: https://github.com/adeoo/email_notifier
 
 ## Links:
 moussaadel97@gmail.com
-
 Lattes: http://lattes.cnpq.br/4497705477645159
 ---
 
