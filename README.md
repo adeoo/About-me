@@ -16,7 +16,8 @@ null for now
 
 ## FPs (fun projects)
 The Game of Life: https://github.com/adeoo/Game-of-life
-https://github.com/adeoo/email_notifier
+
+Email notifier: https://github.com/adeoo/email_notifier
 
 ## Links:
 moussaadel97@gmail.com
